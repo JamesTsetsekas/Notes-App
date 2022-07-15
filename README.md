@@ -1,6 +1,6 @@
 # Notes App 
 
-<p> You can Check Here: https://note-app-scrimba-khusamayasir.netlify.app</p>
+<p> You can Check Here: notes-app-one-lemon.vercel.app</p>
 
 ## Built With:
 - HTML
@@ -14,8 +14,3 @@
 
 ![preview](./preview/preview-note.png)
 ![preview](./preview/delete-note.png)
-
-## Contact Me
-- LinkedIn - [khusamayasir](https://www.linkedin.com/in/khusamayasir/)
-- Twitter - [khusamayasir](https://www.twitter.com/khusamayasir)
-- Instagram - [khusamayasir](https://www.instagram.com/khusamayasir)
